@@ -1,2 +1,2 @@
-# Mini_Project
+# NBA Game Statics
 Cloud Computing
