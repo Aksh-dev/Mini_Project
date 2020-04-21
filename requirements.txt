@@ -1,7 +1,5 @@
-pip
+pip 
 requests
 requests_cache
 Flask
 cassandra-driver
-
-
