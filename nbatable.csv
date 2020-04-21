@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Season,HomeTeamScore,VisitorTeamScore,PlayerName,Points
 2018,114,95,Iman Shumpert,7
 2018,114,95,Nemanja Bjelica,2
+=======
+Season,HomeTeamScore,VisitorTeamScore,PlayerName,Points
+2018,114,95,Iman Shumpert,7
+2018,114,95,Nemanja Bjelica,2
+>>>>>>> abf6eceacf4f33201bb96ef577c5d9b231fe8361
